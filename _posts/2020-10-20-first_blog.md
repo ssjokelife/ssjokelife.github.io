@@ -27,7 +27,7 @@ Out-of-excerpt
 {% endfor %}
 
 
-... you can [get the PDF]({{ site.url }}/assets/pdf/_2020929.pdf) directly.
+... you can [get the PDF](/assets/pdf/2020929.pdf) directly.
 
 
 <ul>
