@@ -1,5 +1,5 @@
 ---
-title: "Post: Chat"
+title: "Post: Chat 2323"
 categories:
   - Post Formats
 tags:
@@ -15,6 +15,11 @@ Excerpt with multiple paragraphs
 Here's another paragraph in the excerpt.
 <!--more-->
 Out-of-excerpt
+
+
+{% include image-gallery.html folder="/uploads/album" %}
+
+abcd
 
 
 {% for category in site.categories %}
