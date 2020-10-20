@@ -1,5 +1,5 @@
 ---
-title: "Post: Chat 2323"
+title: "Post: Chat 2323 그래야죠"
 categories:
   - Post Formats
 tags:
@@ -7,6 +7,8 @@ tags:
   - Post Formats
 excerpt_separator: <!--more-->
 ---
+
+한글이 되어야 함
 
 Abbott: Strange as it may seem, they give ball players 
 
